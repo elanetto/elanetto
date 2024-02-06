@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elanetto&label=Profile%20views&color=0e75b6&style=flat" alt="elanetto" /> </p>
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I'm a Hufflepuff**
 
