@@ -1,11 +1,53 @@
-<h1 align="center">Hi 👋, I'm Anette</h1>
-<h3 align="center">A passionate FrontEnd-student in Oslo</h3>
+<h1>Hello, I'm Anette Therese Lindberg 👋</h1>
+<h3>A passionate FrontEnd-student in Oslo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elanetto&label=Profile%20views&color=0e75b6&style=flat" alt="elanetto" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=elanetto&label=Profile%20views&color=0e75b6&style=flat" alt="elanetto" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+<h3>About me</h3>
 
-- ⚡ Fun fact **I'm a Hufflepuff**
+- 🏠 <b>I live in:</b> Oslo, Norway
+
+- 📚 <b>Studying:</b> FrontEnd Development, Noroff, Oslo
+
+- 🖥️ <b> Check out:</b> My FrontEnd projects: <a href="https://portfolio-ten-eta-98.vercel.app/">Portfolio</a>
+
+  ----
+
+<h3>💻 Programming Languages & Tools</h3>
+
+- Programming languages I know:
+
+  - HTML
+
+  - CSS
+
+- Programmig language I am currently learning:
+  
+  - JavaScript
+
+- Design Tools:
+
+  - Figma
+    
+  - Adobe Photoshop
+    
+  - Adobe Illustrator
+ 
+  - Canva 
+    
+-------
+
+<h3>Interests and Hobbies</h3>
+
+- 🖍️ I draw, print, cut & sell my own <a href="https://www.etsy.com/no-en/shop/elanettoDesign">stickers</a>
+
+- 🎲 Videogames & Boardgames
+
+- 📖 Books: Kindle, Audiobooks and paperbacks.
+
+- ⚡ Fun fact *I'm a Hufflepuff*
+
+  -----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
