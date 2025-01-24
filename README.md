@@ -23,6 +23,8 @@
     
   - JavaScript
 
+  - Tailwind CSS
+
 - Programmig language I am currently learning:
   
   - SQL
