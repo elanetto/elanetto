@@ -20,10 +20,12 @@
   - HTML
 
   - CSS
+    
+  - JavaScript
 
 - Programmig language I am currently learning:
   
-  - JavaScript
+  - SQL
 
 - Design Tools:
 
@@ -33,7 +35,9 @@
     
   - Adobe Illustrator
  
-  - Canva 
+  - Canva
+
+  - Procreate
     
 -------
 
