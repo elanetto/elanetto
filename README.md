@@ -24,10 +24,11 @@
   - JavaScript
 
   - Tailwind CSS
-
-- Programmig language I am currently learning:
-  
+    
   - SQL
+
+  - Vite & React 
+
 
 - Design Tools:
 
