@@ -15,7 +15,7 @@
 
 <h3>💻 Programming Languages & Tools</h3>
 
-- Programming languages I know:
+- Programming languages I've learned at Noroff:
 
   - HTML
 
@@ -26,6 +26,8 @@
   - Tailwind CSS
     
   - SQL
+
+  - TypeScript
 
   - Vite & React 
 
